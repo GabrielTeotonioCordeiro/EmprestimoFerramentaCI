@@ -27,5 +27,5 @@ Utiliza SonarQube para controle de qualidade.
 CRUD de amigos: adicionar, ler, atualizar e excluir amigos do BD. \
 CRUD de ferramentas: adicionar, ler, atualizar e excluir ferramentas do BD. \
 CRUD de empréstimos: adicionar, ler, atualizar e excluir empréstimos do BD. \
-Relatório: criar um relatório sobre cada ferramenta, amigos e empréstimos. 
+Relatório: criar um relatório sobre cada ferramenta, amigos e empréstimos.  
 
